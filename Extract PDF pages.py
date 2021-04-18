@@ -4,7 +4,7 @@ import os
 
 path1 = "C:\pdf" # path for input PDF
 
-file_list = os.listdir(path1) # To get the name list of PDF under path 1
+file_list = os.listdir(path1) # To get the name list of pdf under path 1
 
 
 for name in file_list:
